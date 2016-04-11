@@ -4,7 +4,7 @@ var heading = "";
 
 alert(cat);
 
-heading += "this heading";
+heading += "This heading";
 
 content += "<h1>" + heading + "</h1>";
 
