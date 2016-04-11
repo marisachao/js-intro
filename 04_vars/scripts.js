@@ -12,3 +12,6 @@ content += "<p>the first text area.</p>";
 
 
 document.write(content);
+
+
+console.log(content);
